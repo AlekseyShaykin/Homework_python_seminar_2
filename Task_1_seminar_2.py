@@ -14,23 +14,3 @@ for char in text:
 print(f'Sum = {sum}')
 
 
-# def Method(a):
-#     x = int(a*10)
-#     sum =0
-#     if (a*10)-x == 0:
-#            while a>0:
-#             sum = sum + a%10
-#             a = a//10
-#     else:
-#         while :
-            
-#             sum = sum+int(a)
-#             a = 
-
-
-#     return sum
-   
-
-
-# res = int(Method(x))
-# print(f'{x} -> {res}')
